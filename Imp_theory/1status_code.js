@@ -4,8 +4,9 @@
 
 //this res comes with a status code so that we will know what had happened behind the scenes
 //helps in debuging 
+//helps in SEO
 
-// status codes are divided into cat/class
+// status codes are divided into categories/class
 1.100-199 //information purpose
 2.200-299 //success
 3.300-399// redirect
